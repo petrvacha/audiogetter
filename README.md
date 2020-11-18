@@ -1,5 +1,5 @@
 # Audiogetter
-The script prints all the mp3 links on the opened page.
+The script lists all mp3 links on the opened page.
 
 ### Application
 ```
